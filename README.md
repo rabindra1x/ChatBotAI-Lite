@@ -6,7 +6,13 @@ See a [demo](https://twitter.com/mckaywrigley/status/1634549098954248193?s=46&t=
 
 For an advanced version, see [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui).
 
-![Chatbot UI Lite](./public/screenshot.png)
+![Chatbot UI Lite]
+
+
+(./public/screenshot.png)
+
+
+<img width="3452" height="1932" alt="image" src="https://github.com/user-attachments/assets/6385e5f5-2034-49a6-a5f3-f92e740763b5" />
 
 ## Features
 
@@ -65,6 +71,7 @@ npm run dev
 You should be able to start chatting with the bot.
 
 Now, go build the app into whatever kind of chatbot you want!
+
 
 
 
