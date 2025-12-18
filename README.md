@@ -43,7 +43,7 @@ Fork Chatbot UI on Replit [here](https://replit.com/@MckayWrigley/chatbot-ui).
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/chatbot-ui-lite.git
+git clone https://github.com/rabindra1x/ChatBotAI-Lite.git
 ```
 
 **2. Install Dependencies**
@@ -71,6 +71,7 @@ npm run dev
 You should be able to start chatting with the bot.
 
 Now, go build the app into whatever kind of chatbot you want!
+
 
 
 
