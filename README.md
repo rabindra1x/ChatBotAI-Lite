@@ -2,7 +2,7 @@
 
 A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.
 
-See a [demo](https://twitter.com/mckaywrigley/status/1634549098954248193?s=46&t=AowqkodyK6B4JccSOxSPew).
+
 
 For an advanced version, see [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui).
 
@@ -71,6 +71,7 @@ npm run dev
 You should be able to start chatting with the bot.
 
 Now, go build the app into whatever kind of chatbot you want!
+
 
 
 
